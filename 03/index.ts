@@ -1,6 +1,6 @@
 const values: number[] = [1, 5, 2]
 
-const multiplication = (values: number[]) => {
+const multiplication = (values: number[]): string => {
     let multiplier: number = 0;
     let results: string = ''
 
